@@ -18,34 +18,16 @@ const TEAM = [
     avatar: "https://ui-avatars.com/api/?name=Laksh+Jairam&background=4f46e5&color=fff",
   },
   {
-    name: "Noah Go",
-    role: "Frontend Developer",
-    bio: "Specializes in React component architecture and building responsive layouts for critical sentinel metrics.",
-    avatar: "https://ui-avatars.com/api/?name=Noah+Go&background=4f46e5&color=fff",
-  },
-  {
     name: "Nana Prempeh",
     role: "Frontend Developer",
     bio: "Brings the visual design to life, implementing polished UI patterns for immediate threat detection recognition.",
     avatar: "https://ui-avatars.com/api/?name=Nana+Prempeh&background=4f46e5&color=fff",
   },
   {
-    name: "Abdimalik Abokar",
-    role: "Backend Developer",
-    bio: "Architected the Node.js backend, handling high-frequency sensor data streams and secure authentication.",
-    avatar: "https://ui-avatars.com/api/?name=Abdimalik+Abokar&background=4f46e5&color=fff",
-  },
-  {
     name: "Joshua Subray",
     role: "Backend Developer",
     bio: "Owns the real-time alerting pipeline and predictive AI logic, connecting early-warning agents to the interface.",
     avatar: "https://ui-avatars.com/api/?name=Joshua+Subray&background=4f46e5&color=fff",
-  },
-  {
-    name: "Alexander Stasyna",
-    role: "Backend Developer",
-    bio: "Designed the event-driven data models and built the core monitoring layer powering the Sentinel system.",
-    avatar: "https://ui-avatars.com/api/?name=Alexander+Stasyna&background=4f46e5&color=fff",
   },
 ];
 

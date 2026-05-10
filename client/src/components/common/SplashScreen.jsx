@@ -1,7 +1,9 @@
 import { useEffect, useState } from "react";
-import Lottie from "lottie-react";
+import LottieModule from "lottie-react";
 import robotAnimation from "../../assets/roboHello.json";
 import "./SplashScreen.css";
+
+const Lottie = LottieModule.default || LottieModule;
 
 const SplashScreen = ({ onFinished }) => {
   const [fading, setFading] = useState(false);
