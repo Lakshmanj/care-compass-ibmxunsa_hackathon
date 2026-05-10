@@ -9,25 +9,28 @@ import {
   ArrowRight,
 } from "lucide-react";
 import "./SentinelHomePage.css";
+import lakshmanImg from "../assets/lakshman.jpg";
+import nanaImg from "../assets/nana.jpg";
+import joshuaImg from "../assets/joshua.jpg";
 
 const TEAM = [
   {
     name: "Laksh Jairam",
     role: "Frontend Developer",
     bio: "Focused on crafting intuitive monitoring dashboards and real-time alerts that keep users informed and safe.",
-    avatar: "https://ui-avatars.com/api/?name=Laksh+Jairam&background=4f46e5&color=fff",
+    avatar: lakshmanImg,
   },
   {
     name: "Nana Prempeh",
     role: "Frontend Developer",
     bio: "Brings the visual design to life, implementing polished UI patterns for immediate threat detection recognition.",
-    avatar: "https://ui-avatars.com/api/?name=Nana+Prempeh&background=4f46e5&color=fff",
+    avatar: nanaImg,
   },
   {
     name: "Joshua Subray",
     role: "Backend Developer",
     bio: "Owns the real-time alerting pipeline and predictive AI logic, connecting early-warning agents to the interface.",
-    avatar: "https://ui-avatars.com/api/?name=Joshua+Subray&background=4f46e5&color=fff",
+    avatar: joshuaImg,
   },
 ];
 
